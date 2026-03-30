@@ -6,7 +6,7 @@
 <img src="assets/avatar.jpg" width="120" alt="psychomafia.tiger avatar"/>
 </td>
 <td valign="middle">
-<img src="assets/glitch-header-psychomafia-tiger.svg" width="500" alt="psychomafia.tiger"/>
+<img src="assets/glitch-header-v2.svg" width="500" alt="psychomafia.tiger"/>
 </td>
 </tr>
 </table>
